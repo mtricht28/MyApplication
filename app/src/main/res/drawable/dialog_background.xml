@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 背景色を白に -->
+    <solid android:color="@android:color/white"/>
+    <!-- 角を丸く -->
+    <corners android:radius="16dp"/>
+    <!-- 必要に応じて影や線も設定できます -->
+</shape>
