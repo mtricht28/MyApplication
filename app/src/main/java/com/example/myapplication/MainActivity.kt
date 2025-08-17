@@ -83,9 +83,9 @@ class MainActivity : AppCompatActivity() {
 
     private fun getFaceResource(id: Int): Int = when (id) {
         0 -> R.drawable.card_0
-        1 -> R.drawable.card_0
-        2 -> R.drawable.card_1
-        3 -> R.drawable.card_2
+        1 -> R.drawable.card_1
+        2 -> R.drawable.card_2
+        3 -> R.drawable.card_3
         4 -> R.drawable.joker
         else -> R.drawable.card_back
     }
